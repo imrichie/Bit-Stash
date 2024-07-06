@@ -1,0 +1,8 @@
+.App {
+    text-align: center;
+}
+
+main {
+    max-width: calc(100vw - 208px);
+    margin: 0 auto;
+}
